@@ -24,19 +24,13 @@ More information and additional material can be found here [Summary of Tutorials
   - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/solutions/Exercise_3_Solution.ipynb)
 - Week 4
   - [Lecture 4: Convolutions](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/lectures/Lecture_4.ipynb)
-  - [Exercise 4: Convolutions](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/exercises/Exercise_4.ipynb)
-  - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/solutions/Exercise_4_Solution.ipynb)
 - Week 5
   - [Lecture 5: Transformations and Dataloader](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/lectures/Lecture_5.ipynb)
-  - [Exercise 5: Confusing pretrained Network with Transformations](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/exercises/Exercise_5.ipynb) 
-  - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/solutions/Exercise_5_Solution.ipynb)
+  - [Exercise 4: Medical images as arrays, filters, and augmentations](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/exercises/Exercise_4.ipynb) 
 - Week 6
-  - [Exercise 6: Metrics and Object Oriented Programming](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/exercises/Exercise_6.ipynb)
-  - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/solutions/Exercise_6_Solution.ipynb)
+  - [Exercise 5: Evaluating a Medical AI Model with Metrics](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/exercises/Exercise_5.ipynb)
 - Week 7
-  - [Exercise 7: Network Setup and First Training](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/exercises/Exercise_7.ipynb)
-  - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/solutions/Exercise_7_Solution.ipynb)
+  - [Exercise 6: Clinical AI in Dermatology – Evaluating the "Black Box"](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/exercises/Exercise_6.ipynb)
+  - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/solutions/Exercise_6_Solution.ipynb)
 - Week 8
-  - [Exercise 8: Vision-Language Models in Radiology](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/exercises/Exercise_8.ipynb)
-<!--   - [Exercise 7b: Network Setup and First Training - part 2](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/exercises/Exercise_7b.ipynb)
-  - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/solutions/Exercise_7b_Solution.ipynb) -->
+  - [Exercise 7: Vision-Language Models in Radiology](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/exercises/Exercise_7.ipynb)
