@@ -14,14 +14,14 @@ More information and additional material can be found here [Summary of Tutorials
 - Week 2
   - [Exercise 2: Introduction to Python - Part 2](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/exercises/Exercise_2.ipynb)
 - Week 3
-  - [Exercise 3: Data Visualization and Analysis](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/exercises/Exercise_3.ipynb)
+  - Buffer to finish Exercise 1 and 2
 - Week 4
-  - [Exercise 4: Medical images as arrays, filters, and augmentations](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/exercises/Exercise_4.ipynb)
+  - [Exercise 3: Data Visualization and Analysis](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/exercises/Exercise_3.ipynb)
 - Week 5
-  - [Exercise 5: Transformations and Dataloader](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/exercises/Exercise_5.ipynb)
+  - [Exercise 4: Medical images as arrays, filters, and augmentations](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/exercises/Exercise_4.ipynb)
 - Week 6
-  - [Exercise 6: Evaluating a Medical AI Model with Metrics](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/exercises/Exercise_6.ipynb)
+  - [Exercise 5: Evaluating a Medical AI Model with Metrics](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/exercises/Exercise_5.ipynb)
 - Week 7
-  - [Exercise 7: Clinical AI in Dermatology – Evaluating the "Black Box"](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/exercises/Exercise_7.ipynb)
+  - [Exercise 6: Clinical AI in Dermatology – Evaluating the "Black Box"](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/exercises/Exercise_6.ipynb)
 - Week 8
-  - [Exercise 8: Vision-Language Models in Radiology](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/exercises/Exercise_8.ipynb)
+  - [Exercise 7: Vision-Language Models in Radiology](https://colab.research.google.com/github/CS4MS/CS4MS_exercise/blob/main/exercises/Exercise_7.ipynb)
